@@ -16,10 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="installation_suspended_notification">Instalación suspendida</string>
-    <string name="suspend_button">Suspender</string>
-    <string name="menu_auto_updates_check_interval_daily">Una vez al día</string>
-    <string name="menu_auto_updates_check_interval_weekly">Una vez a la semana</string>
-    <string name="menu_auto_updates_check_interval_monthly">Una vez al mes</string>
-    <string name="menu_auto_updates_check_interval_never">Nunca</string>
+    <string name="app_name">განმაახლებელი</string>
+    <string name="display_name">განმაახლებელი</string>
+    <string name="downloading_notification">ჩამოიტვირთება</string>
+    <string name="new_updates_found_title">ბოლო განახლებები</string>
+    <string name="pause_button">შეჩერება</string>
+    <string name="resume_button">გაგრძელება</string>
+    <string name="dialog_battery_low_title">ბატარეა ჯდება</string>
+    <string name="new_updates_channel_title">ბოლო განახლებები</string>
 </resources>
